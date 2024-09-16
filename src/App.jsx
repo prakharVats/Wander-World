@@ -30,6 +30,11 @@ const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 
 function App() {
   
+  // writing a function
+  const newBranch = () =>{
+    console.log("this is the new branch");
+  }
+
   return (
     <AuthProvider>
       <CitiesProvider>
