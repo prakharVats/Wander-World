@@ -29,11 +29,6 @@ const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 // dist/assets/index-f7c12d89.js   572.44 kB │ gzip: 151.29 kB
 
 function App() {
-  
-  // writing a function
-  const newBranch = () =>{
-    console.log("this is the new branch");
-  }
 
   return (
     <AuthProvider>
