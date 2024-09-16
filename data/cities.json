@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Narsimhapur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-09-16T17:22:17.430Z",
+      "notes": "add a note .... lorem",
+      "position": {
+        "lat": "21.902957365433302",
+        "lng": "77.95349121093751"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "South Slave Region",
+      "country": "Canada",
+      "emoji": "🇨🇦",
+      "date": "2024-09-16T17:24:07.119Z",
+      "notes": "",
+      "position": {
+        "lat": "61.03898176990584",
+        "lng": "-108.23730468750001"
+      },
+      "id": 98443200
+    }
+  ]
+}
