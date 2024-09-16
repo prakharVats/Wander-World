@@ -29,7 +29,7 @@ const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 // dist/assets/index-f7c12d89.js   572.44 kB │ gzip: 151.29 kB
 
 function App() {
-  console.log("hello change!");
+  
   return (
     <AuthProvider>
       <CitiesProvider>
